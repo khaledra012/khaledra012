@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khaled Ramadan Awad</h1>
+<h1 align="center">Hi, I'm Khaled Ramadan Awad</h1>
 
 <h3 align="center">Backend Developer | Software Engineer</h3>
 
@@ -20,16 +20,16 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Backend Developer and Software Engineer
-- ⚙️ Specialized in scalable systems and backend architecture
-- 🧠 Strong knowledge of SOLID principles, Clean Architecture, and Design Patterns
-- 🔥 Experienced with Node.js, TypeScript, Express.js, and RESTful API Design
-- 🗄️ Worked with SQL and NoSQL databases including PostgreSQL, MySQL, MongoDB, and Redis
-- ☁️ Familiar with AWS, Docker, CI/CD pipelines, Git Flow, and Linux
-- 🧪 Focused on performance, security, testing, and clean code
-- 🎓 Computer Science student, expected graduation 2026
+- Backend Developer and Software Engineer
+- Specialized in scalable systems and backend architecture
+- Strong knowledge of SOLID principles, Clean Architecture, and Design Patterns
+- Experienced with Node.js, TypeScript, Express.js, and RESTful API Design
+- Worked with SQL and NoSQL databases including PostgreSQL, MySQL, MongoDB, and Redis
+- Familiar with AWS, Docker, CI/CD pipelines, Git Flow, and Linux
+- Focused on performance, security, testing, and clean code
+- Computer Science student, expected graduation 2029
 
 ---
 
