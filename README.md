@@ -146,7 +146,7 @@
 
 **Bachelor of Computer Science**  
 Faculty of Computers and Information  
-Expected Graduation: **2026**
+Expected Graduation: **2029**
 
 ---
 
